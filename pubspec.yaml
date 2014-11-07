@@ -1,0 +1,4 @@
+name: guillotine
+version: 0.0.1
+dependencies:
+    irc: ">=1.0.0 <2.0.0"
